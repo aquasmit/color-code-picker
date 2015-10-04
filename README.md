@@ -3,7 +3,7 @@
 This is command line utility to get the hexadecimal color code for any standard color name. It also returns, if a given color is [websafe](http://www.w3schools.com/html/html_colors.asp) or not. 
 
 ### Version
-0.0.1
+2.0.0
 
 ### Installation
 

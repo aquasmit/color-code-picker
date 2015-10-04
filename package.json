@@ -1,6 +1,6 @@
 {
   "name": "color-code-picker",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "Grab the color codes from its name",
   "main": "index.js",
   "scripts": {
