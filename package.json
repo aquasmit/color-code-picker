@@ -1,0 +1,23 @@
+{
+  "name": "color-code-picker",
+  "version": "0.0.1",
+  "description": "Grab the color codes from its name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url"  : "https://github.com/aquasmit/color-code-picker.git"
+    },
+  "keywords": [
+    "colorcode",
+    "codepicker",
+    "hexcolor"
+  ],
+  "author": "Smit",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
